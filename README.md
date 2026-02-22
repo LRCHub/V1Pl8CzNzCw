@@ -1,0 +1,48 @@
+# Billie Eilish & Khalid – lovely
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Thought I found a way
+Thought I found a way out
+But you never go away
+So I guess I gotta stay now
+Oh I hope someday I’ll make it
+out of here
+Even if it takes all night or a
+hundred years
+Need a place to hide but I
+can’t find one near
+Wanna feel alive outside I
+can’t fight my fear
+Isn’t it lovely?
+All alone
+Heart made of glass
+My mind of stone
+Tear me to pieces
+Skin to bone
+Hello,
+Welcome home.
+Walking out of time
+Looking for a better place
+Something’s on my mind
+Always in my head space
+but I know someday I’ll make it
+out of here
+Even if it takes all night or a
+hundred years
+Need a place to hide but I
+can’t find one near
+Wanna feel alive outside I
+can’t fight my fear
+Isn’t it lovely?
+All alone
+Heart made of glass
+My mind of stone
+Tear me to pieces
+Skin to bone
+Hello,
+Welcome home.
+Hello,
+Welcome home.
+```
