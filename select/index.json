@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "lovely",
+  "base_artist": "Billie Eilish & Khalid",
+  "createdAt": "2026-02-22T01:18:59.730500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Isn't She Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/01_Isn't_She_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Isn't She Lovely - Edit",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/02_Isn't_She_Lovely_-_Edit_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dark I Am Yet Lovely",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/03_Dark_I_Am_Yet_Lovely_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dark I Am Yet Lovely (O'Connor)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/04_Dark_I_Am_Yet_Lovely_(O'Connor)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Lovely Sweet Banks Of The Moy",
+      "artist": "The Chieftains",
+      "has_synced": false,
+      "path": "select/05_The_Lovely_Sweet_Banks_Of_The_Moy_The_Chieftains.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lovely Sweet Banks of the Moy",
+      "artist": "The Chieftains",
+      "has_synced": false,
+      "path": "select/06_Lovely_Sweet_Banks_of_the_Moy_The_Chieftains.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovely Blonde",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/07_Lovely_Blonde_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dark 'N' Lovely",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/08_Dark_'N'_Lovely_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tell Her She's Lovely",
+      "artist": "Batteaux",
+      "has_synced": false,
+      "path": "select/09_Tell_Her_She's_Lovely_Batteaux.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's a Lovely Day Today",
+      "artist": "Astrud Gilberto",
+      "has_synced": true,
+      "path": "select/10_It's_a_Lovely_Day_Today_Astrud_Gilberto.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lovely Money",
+      "artist": "The Damned",
+      "has_synced": false,
+      "path": "select/11_Lovely_Money_The_Damned.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lovely Love",
+      "artist": "ADULT.",
+      "has_synced": false,
+      "path": "select/12_Lovely_Love_ADULT..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What A Lovely Way To Go - Demo",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/13_What_A_Lovely_Way_To_Go_-_Demo_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lovely Bloodflow",
+      "artist": "Baths",
+      "has_synced": true,
+      "path": "select/14_Lovely_Bloodflow_Baths.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lovely Rita",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/15_Lovely_Rita_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lovely Rita",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/16_Lovely_Rita_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pretty Ribbons And Lovely Flowers",
+      "artist": "Bibio",
+      "has_synced": false,
+      "path": "select/17_Pretty_Ribbons_And_Lovely_Flowers_Bibio.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "She's So Lovely",
+      "artist": "Beach House",
+      "has_synced": true,
+      "path": "select/18_She's_So_Lovely_Beach_House.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "lovely (with Khalid)",
+      "artist": "Billie Eilish, Khalid",
+      "has_synced": false,
+      "path": "select/pl_01_lovely_(with_Khalid)_Billie_Eilish,_Khalid.txt"
+    }
+  ]
+}
